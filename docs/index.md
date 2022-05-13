@@ -1,57 +1,23 @@
 ---
-title: dumi - A doc tool can assist you to develop libraries & write docs.
+title: Greensboro Goblins - The lastest team to be introduced/added to the NBA (UNOFFICIAL THIS IS FOR A PROJECT) .
 order: 10
 hero:
-  title: dumi
-  desc: 📖 A doc tool can assist you to develop libraries & write docs.
+  title: Greensboro Goblins
+  desc: 📖 This is a documentation on how to sign up for tryouts and how you can join our team..
   actions:
     - text: Getting Started
       link: /components/foo
 features:
-  - icon: https://gw.alipayobjects.com/zos/bmw-prod/881dc458-f20b-407b-947a-95104b5ec82b/k79dm8ih_w144_h144.png
-    title: Out of the box
-    desc: Elegant default configrations and convention routing assist developers to get started as simple as possible, that focus all attentions on developing libraries & writting docs
-  - icon: https://gw.alipayobjects.com/zos/bmw-prod/d1ee0c6f-5aed-4a45-a507-339a4bfe076c/k7bjsocq_w144_h144.png
-    title: For developing libraries
-    desc: Rich Markdown extensions are not limited to rendering component demos, making component documents not only easy to write and manage, but also beautiful and easy to use
-  - icon: https://gw.alipayobjects.com/zos/bmw-prod/b8570f4d-c1b1-45eb-a1da-abff53159967/kj9t990h_w144_h144.png
-    title: Theme system
-    desc: Progressive custom theme capabilities, ranging from expanding your own Markdown tags to customizing complete theme packages, are up to you
-  - icon: https://gw.alipayobjects.com/zos/bmw-prod/b3e102cd-5dad-4046-a02a-be33241d1cc7/kj9t8oji_w144_h144.png
-    title: API automatically generated
-    desc: Component API can be automatically generated based on TypeScript type definitions, and components will always be『the same in appearance』
-  - icon: https://gw.alipayobjects.com/zos/bmw-prod/3863e74a-7870-4874-b1e1-00a8cdf47684/kj9t7ww3_w144_h144.png
-    title: Mobile component library development
-    desc: Install the theme package to quickly enable mobile component R&D capabilities, built-in mobile HD rendering solution
-  - icon: https://gw.alipayobjects.com/zos/bmw-prod/f093e060-726e-471c-a53e-e988ed3f560c/kj9t9sk7_w144_h144.png
-    title: Asset dataization capabilities
-    desc: One-line command digitizes component assets, and standardized asset data can be connected with downstream productivity tools
-footer: Open-source MIT Licensed | Copyright © 2019-present<br />Powered by self
+  - icon: https://pngimg.com/uploads/nba/nba_PNG13.png
+    title: How To Join
+    desc: Basically to join our team you have to have a certain talent that can qualify you to get in any other team and you have to be mentally prepaired and be able to put in effort to be at every game. (yes family and more important matters are resonable for you to not be at the games). You can be picked up when being scouted or at tryouts if we really like how you play and your spirit. 
+  - icon: https://th.bing.com/th/id/R.57ff12c7464ea5adf90676b8a1e724d0?rik=K3YUZhQiQ2yr7Q&pid=ImgRaw&r=0
+    title: Scouting & Tryouts
+    desc: Tryouts will be hosted at local highschools and stadium in mid 2022-23 / Scouting is at local highschools and highschools across the country. We are always open and looking for more members and additions for our team. 
 ---
-
-## Getting Started
-
-Create first doc in manual way
-
-```bash
-// Create dir for libraries
-$ mkdir library && cd library
-
-// Install dumi
-$ npm i dumi
-
-// Create docs
-$ mkdir docs && echo '# Hello dumi!' > docs/index.md
-
-// Preview docs
-$ npx dumi dev
-```
 
 ## Feedback
 
-Please visit [GitHub](https://github.com/umijs/dumi) or join the discuss group
+Please visit [NBA](https://nba.com/greensborogoblins) or join the discuss group
 
-<div>
-  <img data-type="dingtalk" src="https://gw.alipayobjects.com/zos/bmw-prod/ec249703-be12-416c-8f33-297e47d9439c/kjy5ls84_w1004_h1346.png" width="300" />
-  <img data-type="wechat" src="https://gw.alipayobjects.com/zos/bmw-prod/c18bc2a5-719a-48ca-b225-c79ef88bfb43/k7m10ymd_w1004_h1346.jpeg" width="300" />
-</div>
+
